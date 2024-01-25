@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "PTSans-Regula";
+  src: url(../font/PTSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: "StickNoBills-Bold";
+  src: url(../font/StickNoBills-Bold.ttf);
+}
+
+@font-face {
+  font-family: "PlayfairDisplay-Bold";
+  src: url(../font/PlayfairDisplay-Bold.ttf);
+}
+
+@font-face {
+  font-family: "PlayfairDisplay-Regular";
+  src: url(../font/PlayfairDisplay-Regular.ttf);
+}
+
